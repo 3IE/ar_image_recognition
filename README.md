@@ -1,4 +1,4 @@
-#Augmented Reality Image Recognition
+# Augmented Reality Image Recognition
 
 Cette application est une modification de l'application augmented_image_java.
 
